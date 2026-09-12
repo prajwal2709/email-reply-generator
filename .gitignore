@@ -17,6 +17,9 @@
 # Application configuration containing API keys
 **/application.properties
 
+# VS Code
+.vscode/
+
 # OS
 .DS_Store
 Thumbs.db
