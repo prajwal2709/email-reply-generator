@@ -1,0 +1,22 @@
+# Spring Boot
+**/target/
+*.class
+
+# IntelliJ
+**/.idea/
+*.iml
+
+# Node / React
+**/node_modules/
+**/dist/
+
+# Environment variables
+.env
+.env.*
+
+# Application configuration containing API keys
+**/application.properties
+
+# OS
+.DS_Store
+Thumbs.db
